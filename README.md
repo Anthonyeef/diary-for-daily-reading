@@ -10,3 +10,5 @@
 - 06: buster(Ghost static site generator);viewpager adapter;Android life cycle picture;
 - 07: RecyclerView;Gson;Top Android resources;
 - 09: JSON Array with GSON; 
+- 10: Endless RecyclerView; RecyclerView with SwipeRefreshLayout;
+- 11: Retrofit 2.0
