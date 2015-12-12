@@ -11,4 +11,4 @@
 - 07: RecyclerView;Gson;Top Android resources;
 - 09: JSON Array with GSON; 
 - 10: Endless RecyclerView; RecyclerView with SwipeRefreshLayout;
-- 11: Retrofit 2.0
+- 11: Retrofit 2.0;SimpleXmlConvertor with Retrofit 2.0
